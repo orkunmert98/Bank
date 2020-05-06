@@ -37,6 +37,11 @@ import LandingPage from "views/examples/LandingPage.js";
 import RegisterPage from "views/examples/RegisterPage.js";
 import ProfilePage from "views/examples/ProfilePage.js";
 
+
+
+
+
+
 ReactDOM.render(
   <Provider store={store}>
      
