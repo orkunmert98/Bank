@@ -1,0 +1,72 @@
+.black{
+    position: fixed !important;
+    background-color: #171941 !important;
+  
+}
+.blacks{
+    color:white !important;
+   
+}
+.nav-item a{
+font-size: 16px !important;
+
+}
+.nav-item a:hover{
+    cursor: pointer;
+}
+.landing-page .content-center img {
+    height: 475px !important;
+}
+.whites{
+    color:black !important;
+   
+}
+.white{
+    position: fixed !important;
+    background-color: white !important;
+
+   
+}
+
+
+.MuiTypography-h4 {
+    font-size: 2.125rem !important;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+    font-weight: 400 !important;
+    line-height: 1.235 !important;
+    letter-spacing: 0.00735em !important;
+    color: black !important;
+}
+.MuiTypography-colorPrimary {
+    color: #1976d2 !important;
+}
+
+.MuiTypography-h6 {
+    font-size: 1.25rem !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 500 !important;
+    line-height: 1.6 !important;
+    letter-spacing: 0.0075em !important;
+}
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #1976d2 !important;
+}
+
+
+.ff{
+    font-family: "Poppins", sans-serif !important;
+    color: black !important;
+}
+
+.ffc{
+    color: #1976D2 !important;
+    font-family: "Poppins", sans-serif !important;
+}
+
+
+.card-coin:hover{
+
+cursor: pointer;
+
+}
